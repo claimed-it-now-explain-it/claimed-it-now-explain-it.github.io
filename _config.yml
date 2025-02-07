@@ -1,5 +1,7 @@
 title: "Claimed It, Now Explain It"
-description: "You claim it on your resume, now explain it. Deep-dive into real tech skills."
-theme: jekyll-theme-minimal
-github:
-  is_project_page: false
+description: "A blog to verify technical skills beyond buzzwords."
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+aux_links:
+  GitHub:
+    - "https://github.com/claimed-it-now-explain-it"
