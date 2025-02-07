@@ -1,3 +1,12 @@
+ _ _  _____  _         _                       _   _____  _        _   _                    _____               _         _          _____  _    _ _  
+( | )/  __ \| |       (_)                     | | |_   _|| |      | \ | |                  |  ___|             | |       (_)        |_   _|| |  ( | ) 
+ V V | /  \/| |  __ _  _  _ __ ___    ___   __| |   | |  | |_     |  \| |  ___  __      __ | |__  __  __ _ __  | |  __ _  _  _ __     | |  | |_  V V  
+     | |    | | / _` || || '_ ` _ \  / _ \ / _` |   | |  | __|    | . ` | / _ \ \ \ /\ / / |  __| \ \/ /| '_ \ | | / _` || || '_ \    | |  | __|      
+     | \__/\| || (_| || || | | | | ||  __/| (_| |  _| |_ | |_  _  | |\  || (_) | \ V  V /  | |___  >  < | |_) || || (_| || || | | |  _| |_ | |_       
+      \____/|_| \__,_||_||_| |_| |_| \___| \__,_|  \___/  \__|( ) \_| \_/ \___/   \_/\_/   \____/ /_/\_\| .__/ |_| \__,_||_||_| |_|  \___/  \__|      
+                                                              |/                                        | |                                           
+                                                                                                        |_|                                           
+---
 # **You claimed it on your resume, now explain it!**
 
 Welcome to **ExplainYourResume** – a blog and open-source initiative designed to challenge developers to truly understand the technologies they list on their resumes. Our goal is to bridge the gap between theory and real-world application by presenting in-depth Q&A-style blog posts, technical challenges, and discussions around key concepts.
